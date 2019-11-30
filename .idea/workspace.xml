@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fd460b6-aeed-4ed8-aab6-f084bcedecfa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T456jZGSVZhfsV4Tqc5Y83qys8" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DaszRade/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fd460b6-aeed-4ed8-aab6-f084bcedecfa" name="Default Changelist" comment="" />
+      <created>1572706353813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572706353813</updated>
+      <workItem from="1572706355302" duration="7198000" />
+      <workItem from="1572807227683" duration="69000" />
+      <workItem from="1572894771848" duration="5802000" />
+      <workItem from="1573034324194" duration="5456000" />
+      <workItem from="1573081839524" duration="1058000" />
+      <workItem from="1573134035442" duration="1647000" />
+      <workItem from="1573302053716" duration="22467000" />
+      <workItem from="1573387391724" duration="12120000" />
+      <workItem from="1573409963226" duration="8219000" />
+      <workItem from="1573471235049" duration="9388000" />
+      <workItem from="1573734205652" duration="344000" />
+      <workItem from="1573742330899" duration="1423000" />
+      <workItem from="1573825524457" duration="597000" />
+      <workItem from="1573903773018" duration="10513000" />
+      <workItem from="1573997713475" duration="12891000" />
+      <workItem from="1574290261302" duration="2365000" />
+      <workItem from="1574326463535" duration="11073000" />
+      <workItem from="1574375453876" duration="678000" />
+      <workItem from="1574635467904" duration="4778000" />
+      <workItem from="1574684546569" duration="3677000" />
+      <workItem from="1574711029795" duration="11925000" />
+      <workItem from="1574760900170" duration="14681000" />
+      <workItem from="1574886411745" duration="14305000" />
+      <workItem from="1574939794998" duration="1660000" />
+      <workItem from="1574969337431" duration="1200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
