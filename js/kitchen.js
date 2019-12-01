@@ -308,7 +308,7 @@ if (eyeInpocket == 1){
     update(){
         //Koniec
         if (counter === 3){
-            this.scene.scene.start('MenuScene');
+            this.scene.start('MenuScene');
             kill();
         };
     }
